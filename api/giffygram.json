@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Bryan",
+      "email": "bryan@bn.com",
+      "id": 1
+    },
+    {
+      "name": "Ben",
+      "email": "ben@bnames.com",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif",
+      "userId": 1,
+      "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+      "timestamp": 1561695022812,
+      "title": "Enhanced global utilisation"
+    },
+    {
+      "title": "goffy",
+      "imageURL": "https://media.giphy.com/media/13EtQIwmTqNDji/giphy.gif",
+      "description": "This is Max being a cool guy. (A Goofy Movie 1995",
+      "userId": 1,
+      "timestamp": 1647374864938,
+      "id": 2
+    },
+    {
+      "title": "Weird Dino",
+      "imageURL": "https://media2.giphy.com/media/DurocLC2BB4oU/giphy.gif?cid=ecf05e47nk5k4n5qf4jeyty2gdb4h5ym57y1vgyyp5sbwbdf&rid=giphy.gif&ct=g",
+      "description": "Imagine if a dino could eat a hamburger as big as him",
+      "userId": 1,
+      "timestamp": 1647375295075,
+      "id": 3
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 2
+    }
+  ]
+}
